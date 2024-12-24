@@ -31,6 +31,9 @@ passwordForm.addEventListener("submit", function (e) {
     // Check password complexity
     let complexity = "Weak";
     let color = "red";
+    setTimeout(
+        () => alert("Use Minimum 8 characters, At least one uppercase letter, At least one lowercase letter, At least one number, At least one special character (e.g., !, @, #, $, etc.)"),
+        300)
 
     const hasUpperCase = /[A-Z]/.test(password);
     const hasLowerCase = /[a-z]/.test(password);
@@ -44,6 +47,9 @@ passwordForm.addEventListener("submit", function (e) {
     } else if (isLongEnough && (hasUpperCase || hasLowerCase) && (hasNumbers || hasSpecialChars)) {
         complexity = "Medium";
         color = "orange";
+        setTimeout(
+            () => alert("Use Minimum 8 characters, At least one uppercase letter, At least one lowercase letter, At least one number, At least one special character (e.g., !, @, #, $, etc.)"),
+            300)
     }
 
     // Display complexity
