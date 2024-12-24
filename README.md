@@ -25,7 +25,9 @@ Ensure that you have a web browser installed (Google Chrome, Mozilla Firefox, et
 
 2. **Navigate to the project directory**:
 
-   cd Password_complexity_checker
+  * cd PRODIGY_CS_03
+    
+  * cd Password_complexity_checker
   
 
 3. **Open `index.html` in a web browser**:
