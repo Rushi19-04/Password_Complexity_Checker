@@ -19,32 +19,33 @@ Ensure that you have a web browser installed (Google Chrome, Mozilla Firefox, et
 
 ### Installation
 1. **Download or clone the repository**:
-
+ ```bash
    git clone https://github.com/Rushi19-04/PRODIGY_CS_03.git
- 
+ ```
 
 2. **Navigate to the project directory**:
-
+ ```bash
   * cd PRODIGY_CS_03
-    
+ ```
+ ```bash
   * cd Password_complexity_checker
-  
+ ```  
 
 3. **Open `index.html` in a web browser**:
    - **For Mac**:
-     
+   ```bash    
      open index.html
-   
+   ```   
    - **For Windows**:
      - **Graphical Method**: Double-click on the `index.html` file in File Explorer to open it in your default browser.
      - **Command Line Method**: Open Command Prompt and run the following command:
-       
+    ```bash
        start index.html
-      
+    ```     
    - **For Linux**:
-     
+    ```bash
      xdg-open index.html
-    
+    ```  
 
 ### Usage
 1. Open the project in a browser.
