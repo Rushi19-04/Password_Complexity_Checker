@@ -25,10 +25,10 @@ Ensure that you have a web browser installed (Google Chrome, Mozilla Firefox, et
 
 2. **Navigate to the project directory**:
  ```bash
-  * cd PRODIGY_CS_03
+  cd PRODIGY_CS_03
  ```
  ```bash
-  * cd Password_complexity_checker
+  cd Password_complexity_checker
  ```  
 
 3. **Open `index.html` in a web browser**:
