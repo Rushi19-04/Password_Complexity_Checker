@@ -20,7 +20,7 @@ Ensure that you have a web browser installed (Google Chrome, Mozilla Firefox, et
 ### Installation
 1. **Download or clone the repository**:
 
-   git clone https://github.com/yourusername/password-complexity-checker.git
+   git clone https://github.com/Rushi19-04/PRODIGY_CS_03.git
  
 
 2. **Navigate to the project directory**:
