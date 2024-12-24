@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Complexity Checker</title>
+    <!-- Importing fonts from Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Spicy+Rice&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Password Complexity Checker</h1>
+
+        <!-- Form for Password Checking -->
+        <form id="passwordForm">
+            <!-- Label and Input Field -->
+            <label for="password"><h3>Enter Password:</h3></label>
+            <div class="input-container">
+                <input type="password" id="password" name="password" required>
+                <span class="eye-icon" id="togglePassword">Show</span>
+            </div>
+            <br>
+            <!-- Submit Button -->
+            <button type="submit" class="scan-btn">Check</button>
+            <br>
+            <!-- Message Display -->
+            <h3 p id="message" style="display: none;">
+                Password complexity is<bold span id="strength"></bold></span></h3>
+            </p>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
