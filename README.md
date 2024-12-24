@@ -25,7 +25,7 @@ Ensure that you have a web browser installed (Google Chrome, Mozilla Firefox, et
 
 2. **Navigate to the project directory**:
 
-   cd password-complexity-checker
+   cd Password_Complexity_Checker
   
 
 3. **Open `index.html` in a web browser**:
