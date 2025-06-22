@@ -1,6 +1,12 @@
 # Password Complexity Checker
 This is a simple web application that allows users to check the strength of their passwords based on predefined complexity rules. It uses HTML, CSS, and JavaScript to provide an interactive experience, ensuring that users create strong and secure passwords.
 
+## 📸 Screenshot
+
+Here’s what the Password Complexity Checker looks like:
+
+![UI Screenshot](UI_screenshot.png)
+
 ## Features
 - **Password Strength Indicator**: A dynamic strength meter that shows how strong a password is based on length, uppercase, lowercase, numeric, and special character requirements.
 - **Real-time Feedback**: Instant validation as the user types their password.
