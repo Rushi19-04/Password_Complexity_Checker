@@ -68,4 +68,6 @@ The password strength is evaluated based on the following criteria:
 If you'd like to contribute to the development of this project, feel free to fork the repository, make your changes, and create a pull request.
 
 ## License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the [MIT License](License).
+
